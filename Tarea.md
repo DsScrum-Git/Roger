@@ -6,7 +6,7 @@
     QUIERO ver las historias de mis amigos
     PARA mantenerme al dia con sus actividades
 
-    ### Segunda Historia
+### Segunda Historia
 
     COMO usuario registrado de facebook
     QUIERO acceder a marketplace
